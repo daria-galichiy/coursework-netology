@@ -11,4 +11,4 @@
 * RESTful API
 * Git
 
-<img src="[https://i.imgur.com/ZWnhY9T.png](https://github.com/daria-galichiy/coursework-netology/blob/master/img/justimg.png)" width="250" height="250">
+<img src="https://github.com/daria-galichiy/coursework-netology/blob/master/img/justimg.png" width="300" height="300">
