@@ -1,6 +1,6 @@
 ## Daria Galichiy
 
-#### Novice Android Developer taking a course from netology
+#### __Novice Android Developer taking a course from netology__
 
 ##### Skills
 * Java
