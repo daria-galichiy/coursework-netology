@@ -11,4 +11,4 @@
 * RESTful API
 * Git
 
-![](img\justimg.png)
+![](https://github.com/daria-galichiy/coursework-netology/blob/master/img/justimg.png){:height="100px" width="100px"}
